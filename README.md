@@ -12,7 +12,7 @@
 
 ### Práctico 1 
 
-Se encuentran los resultados y código de práctico 1 en el archivo **Ejercicios1(in-class).ipynb**.
+Se encuentran los resultados y código de práctico 1 en el jupyter notebook **Ejercicios1(in-class).ipynb**.
 
 ### Práctico 2
 
